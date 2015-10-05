@@ -1,1 +1,2 @@
 include java test file
+added new line
